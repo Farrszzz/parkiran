@@ -1,0 +1,14 @@
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: aqua;
+}
+.col-6 {
+    margin-top: 15px;
+}
+.d-flex {
+    padding-top: 10px;
+}
+a {
+    color: white;
+}
